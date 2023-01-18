@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
 
-<!--
-**PurE-HoneY/PurE-HoneY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+         🖤••𝑨𝒔𝒔𝒔𝒂𝒍𝒂𝒎𝒖𝒂𝒍𝒚𝒌𝒖𝒎••🖤
+ 
+         ◈ 𝑯𝒊 𝑰 𝑨𝒎 𝑷𝒖𝒓𝑬 𝑯𝒐𝒏𝒆𝒀 ◈
+ 
+          ◈ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓜𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ◈
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+           ▷ 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐕𝐢𝐬𝐢𝐭𝐨𝐫 : ◁
+ 
+- ![Profile views](https://gpvc.arturio.dev/DoD-99)
+- [![GitHub followers](https://img.shields.io/github/followers/DoD-99.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/niloy0?tab=followers)
+ 
+
+            ▷ 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 : ✿ ◁
