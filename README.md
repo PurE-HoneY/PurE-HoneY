@@ -8,10 +8,10 @@
           ◈ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓜𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ◈
 
 
-           ▷ 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐕𝐢𝐬𝐢𝐭𝐨𝐫 : ◁
+           ▷ 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝑽𝒊𝒔𝒊𝒕𝒐𝒓 : ◁
  
 - ![Profile views](https://gpvc.arturio.dev/DoD-99)
 - [![GitHub followers](https://img.shields.io/github/followers/DoD-99.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/niloy0?tab=followers)
  
 
-            ▷ 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 : ✿ ◁
+            ▷ 𝑻𝒉𝒂𝒏𝒌 𝒀𝒐𝒖 : ✿ ◁
